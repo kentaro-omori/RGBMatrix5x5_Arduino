@@ -1,0 +1,12 @@
+# シンタックスハイライト用のキーワード定義
+RGBMatrix5x5	KEYWORD1
+IS31FL3731	KEYWORD1
+begin	KEYWORD2
+setPixel	KEYWORD2
+setAll	KEYWORD2
+clear	KEYWORD2
+show	KEYWORD2
+setBrightness	KEYWORD2
+setGamma	KEYWORD2
+width	KEYWORD2
+height	KEYWORD2
